@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utkarsh-KT (Utkarsh Kashinath Takmoge)
 - 👨🏻‍🎓 I'm currently pursuing B.E in Artificial Intelligence & Data Science
-- 👀 I’m interested in Web and app development
+- 👀 I’m interested in Web development, app development, ML , DS and AI
 - 🌱 I’m currently learning c++ , opp's and DSA
 - ✏️ I love to learn new technologies
 - ✅ I have learned following technologies -> 
