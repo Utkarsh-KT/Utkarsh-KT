@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 I'm currently pursuing B.E in Artificial Intelligence & Data Science
 - 👀 I’m interested in Web development, app development, ML , DS and AI
-- 🌱 I’m currently learning c++ , opp's and DSA
+- 🌱 I’m currently learning c++ , python , opp's , webdev and DSA
 - ✏️ I love to learn new technologies
 - ✅ I have learned following technologies -> 
 - 💞️ I’m looking to collaborate on web devlopment
