@@ -7,5 +7,5 @@
 - ✅ I have learned following technologies -> 
 - 💞️ I’m looking to collaborate on web devlopment
 - 👨🏻‍💻 I'm focusing on enhancing my programing and problem solving skill's
-- 📫 You can reach me via my mail - utk.takmoge@gmail.com
+- 📫 You can reach me via my mail - utkarsh220503@gmail.com
 
